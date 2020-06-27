@@ -1,5 +1,8 @@
 html {
   height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-text-size-adjust: none;
 }
 
 body {
@@ -182,7 +185,8 @@ p {
   width: 24px;
 }
 
-.profile-social-links li a:hover {
+.profile-social-links li a:hover,
+.profile-social-links li a:active {
   color: #cd2a3e;
   border-color: #cd2a3e;
 }
