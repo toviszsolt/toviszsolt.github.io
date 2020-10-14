@@ -8,20 +8,20 @@ html {
 body {
   overflow: hidden;
   background: linear-gradient(to bottom right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.5)),
-    url("../assets/bg.jpg") no-repeat center center fixed;
+    url('../assets/bg.jpg') no-repeat center center fixed;
   background-size: cover;
   position: fixed;
   padding: 0px;
   margin: 0px;
   width: 100%;
   height: 100%;
-  font: normal 14px/1.618em -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font: normal 14px/1.618em -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol';
   -webkit-font-smoothing: antialiased;
 }
 
 body:before {
-  content: "";
+  content: '';
   height: 0px;
   padding: 0px;
   border: 130em solid #313440;
@@ -101,7 +101,7 @@ p {
 
 .profile-card header a:after {
   position: absolute;
-  content: "";
+  content: '';
   bottom: 3px;
   right: 3px;
   width: 20px;
@@ -325,7 +325,7 @@ p {
   .profile-card header {
     width: auto;
     height: auto;
-    padding: 30px 20px;
+    padding: 30px 20px 20px 20px;
     display: block;
     float: none;
     border-right: none;
