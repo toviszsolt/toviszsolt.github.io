@@ -6,6 +6,13 @@ using various technologies and programming languages.
 
 https://toviszsolt.stacklegend.com
 
+## Need experts for the next project?
+
+An expert team is ready to help you understand your business needs and challenges and provide customized solutions. Take
+a look at our services and contact us today.
+
+https://toviszsolt.stacklegend.com/contact
+
 ## What is React.js?
 
 React.js is a software development tool that helps you build web applications. It is a framework for websites or
