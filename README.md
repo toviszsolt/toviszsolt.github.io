@@ -436,12 +436,12 @@ identify and resolve issues before they impact operations.
 
 https://toviszsolt.stacklegend.com/what-is/monitoring-diagnostic
 
-## What is IT Consultancy?
+## What is IT Consulting?
 
-IT Consultancy involves providing expert advice and guidance on IT-related matters to businesses. Consultants help
+IT Consulting involves providing expert advice and guidance on IT-related matters to businesses. Consultants help
 organizations assess their technology needs, develop strategies, and implement solutions to achieve their goals.
 
-https://toviszsolt.stacklegend.com/what-is/it-consultancy
+https://toviszsolt.stacklegend.com/what-is/it-consultaning
 
 ## What is IT Strategy?
 
